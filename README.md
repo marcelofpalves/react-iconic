@@ -2,6 +2,10 @@
 
 React.js wrapper for the [open-iconic icons](https://github.com/iconic/open-iconic)
 
+## Example
+
+[list of icons](http://marcelofpalves.github.io/react-iconic/build/)
+
 ## Starting the project
 
 ```js
