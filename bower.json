@@ -1,0 +1,19 @@
+{
+  "name": "react-iconic",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "marcelopereirascmspain <marcelo.pereira@scmspain.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "open-iconic": "~1.1.1"
+  }
+}
